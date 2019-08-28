@@ -1,0 +1,2 @@
+INPUT_DIRECTORY = './in'
+OUTPUT_DIRECTORY = './out'
